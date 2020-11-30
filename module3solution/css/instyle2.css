@@ -1,0 +1,82 @@
+#nav-ggg{
+background-color: #009002;
+border-radius: 0;
+border:0;
+height: 100px;
+
+
+}
+.container{
+margin-right:  0px;
+margin-left: 0px;
+
+}
+.navbar-brand{
+	padding-top: 15px;
+	padding-left: 30px;
+	vertical-align: left;
+	
+}
+h1{
+	font-size: 1.5em;
+	color: #114027;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+		text-decoration: none;
+		text-decoration: color:;
+
+	
+}
+
+
+	#menubutton{
+
+float:right;
+position: relative;
+margin-right: 10px;
+margin-top: 30px;
+clear: all;
+}
+
+
+
+#mainshow{
+background-color: #9e3623;
+margin-right: 0px;
+float: left;
+max-width: 100%;
+box-sizing: border-box;
+padding: 20px 30px 20px 30px;
+
+}
+#title{
+	text-align: center;
+	font-size: 1.4em;
+	font-style: italic;
+
+
+}
+#boxing{
+position: relative;
+width: 100%
+margin-right:10px;
+box-sizing : border-box;
+background-color: grey; 
+height: 100%
+padding:10px;
+}
+
+#menu-items{
+position: relative;
+float: left;
+text-align: center;
+margin: 0px;
+max-width: 100%;
+box-sizing : border-box;
+
+
+}
+
+
+
